@@ -1,5 +1,7 @@
 # library1
 
+https://jen9-ops.github.io/library1/
+
 // Пример вызова:
 try {
     // Ваш код, который может сломаться
