@@ -1,6 +1,6 @@
 # library1
 
-https://jen9-ops.github.io/library1/
+https://jen9-ops.github.io/library1/console.js
 
 // Пример вызова:
 try {
